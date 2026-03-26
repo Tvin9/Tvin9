@@ -4,7 +4,7 @@
 I recently changed careers from teaching English as a foreign language to software development following an intensive 13 week course at Northcoders.
 
 ## 🛠️ Tools and Tech 
-
+![image]({ 	https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white}) ![image]({BadgeURLHere}) ![image]({BadgeURLHere}) ![image]({BadgeURLHere})
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tvin9&theme=tokyonight)](https://git.io/streak-stats)
 <!--
