@@ -3,7 +3,7 @@
 ## Junior Software Developer
 I recently changed careers from teaching English as a foreign language to software development following an intensive 13 week course at Northcoders.
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tvin9&theme=tokyonight)](https://git.io/streak-stats)
 <!--
 **Tvin9/Tvin9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
