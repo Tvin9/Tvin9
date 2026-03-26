@@ -1,7 +1,9 @@
-## Hi there 👋
+# Hi there 👋
 
 I'm currently working on becoming a full stack software engineer.
 I'm primarily learning JS with react.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tvin9)](https://github.com/Tvin9/github-readme-stats)
 
 <!--
 **Tvin9/Tvin9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
