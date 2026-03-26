@@ -1,7 +1,7 @@
-# Hi there 👋
+# Hi there, I'm Chris 👋
 
-I'm currently working on becoming a full stack software engineer.
-I'm primarily learning JS with react.
+## Junior Software Developer
+I recently changed careers from teaching English as a foreign language to software development following an intensive 13 week course at Northcoders.
 
 
 
