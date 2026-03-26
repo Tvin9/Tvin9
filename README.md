@@ -3,7 +3,7 @@
 ## Junior Software Developer
 I recently changed careers from teaching English as a foreign language to software development following an intensive 13 week course at Northcoders.
 
-##🛠️ Tools and Tech 
+## 🛠️ Tools and Tech 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tvin9&theme=tokyonight)](https://git.io/streak-stats)
