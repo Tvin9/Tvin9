@@ -3,6 +3,8 @@
 ## Junior Software Developer
 I recently changed careers from teaching English as a foreign language to software development following an intensive 13 week course at Northcoders.
 
+---
+
 ## 🛠️ Tools and Tech 
 
 ### Languages
@@ -26,7 +28,7 @@ I recently changed careers from teaching English as a foreign language to softwa
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-
+---
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tvin9&theme=tokyonight)](https://git.io/streak-stats)
