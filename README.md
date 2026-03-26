@@ -14,7 +14,7 @@ I recently changed careers from teaching English as a foreign language to softwa
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Phaser](https://img.shields.io/badge/Phaser-8B0000?style=for-the-badge&logo=phaser&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
 
 ### Backend & Runtime
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -24,6 +24,10 @@ I recently changed careers from teaching English as a foreign language to softwa
 ### Tools & Testing
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tvin9&theme=tokyonight)](https://git.io/streak-stats)
 <!--
