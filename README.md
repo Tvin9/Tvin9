@@ -47,7 +47,7 @@ with articles, comments, and voting.
 ---
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tvin9&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tvin9&theme=tokyonight)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tvin9&show_icons=true&theme=default)
 <!--
 **Tvin9/Tvin9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
