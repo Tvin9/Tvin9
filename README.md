@@ -47,7 +47,7 @@ with articles, comments, and voting.
 ---
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Tvin9&theme=tokyonight&border=1a1b27&background=1a1b27)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tvin9&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Tvin9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Tvin9&theme=tokyonight&hide_border=true&bg_color=00000000&layout=compact)
 <!--
