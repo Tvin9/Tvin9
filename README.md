@@ -5,6 +5,22 @@ I recently changed careers from teaching English as a foreign language to softwa
 
 ---
 
+## 🚀 Featured Projects
+
+### 🎮 [Eldritch Game](https://github.com/Tvin9/Eldritch_Game)
+A browser-based multiplayer horror quiz RPG — built collaboratively as part 
+of a full-stack team project.
+
+▶️ **[Play it live](https://eldritch-game.netlify.app/)** · [Repo](https://github.com/Tvin9/Eldritch_Game)
+
+### 📰 [NC News](https://github.com/Tvin9/nc-news-FE)
+Full-stack news platform — React frontend, Express/PostgreSQL backend, 
+with articles, comments, and voting.
+
+[Frontend repo](https://github.com/Tvin9/nc-news-FE) · [Backend repo](https://github.com/Tvin9/nc_news_backend)
+
+---
+
 ## 🛠️ Tools and Tech 
 
 ### Languages
