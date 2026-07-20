@@ -46,10 +46,8 @@ with articles, comments, and voting.
 
 ---
 
-<img src="https://streak-stats.demolab.com/?user=Tvin9&card_width=495&theme=tokyonight" alt="GitHub Streak" />
-
+<img src="https://streak-stats.demolab.com/?user=Tvin9&theme=tokyonight" alt="GitHub Streak" />
 <img src="https://github-stats-extended.vercel.app/api?username=Tvin9&show_icons=true&card_width=495&theme=tokyonight" alt="GitHub Stats" />
-
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tvin9&card_width=495&theme=tokyonight" alt="Top Languages" />
 
 <!--
