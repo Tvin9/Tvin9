@@ -46,9 +46,11 @@ with articles, comments, and voting.
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Tvin9&theme=tokyonight)](https://git.io/streak-stats)
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Tvin9&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Tvin9&layout=compact&theme=tokyonight)
+<img src="https://streak-stats.demolab.com/?user=Tvin9&card_width=495&theme=tokyonight" alt="GitHub Streak" />
+
+<img src="https://github-stats-extended.vercel.app/api?username=Tvin9&show_icons=true&card_width=495&theme=tokyonight" alt="GitHub Stats" />
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tvin9&card_width=495&theme=tokyonight" alt="Top Languages" />
 
 <!--
 **Tvin9/Tvin9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
